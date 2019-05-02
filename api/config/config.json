@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "uv402-s",
+    "database": "perritos",
+    "host": "34.74.58.59",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "34.74.58.59",
+    "dialect": "mysql"
+  }
+}
